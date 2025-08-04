@@ -1,0 +1,10 @@
+
+Use this minimal list (add more if needed):
+
+```txt
+pandas
+numpy
+scikit-learn
+plotly
+ipywidgets
+sqlite3
